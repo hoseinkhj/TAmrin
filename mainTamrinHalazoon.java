@@ -7,10 +7,10 @@ public class mainTamrinHalazoon {
         Scanner input = new Scanner(System.in);
         System.out.println("Tedad satr va soton ra benevisid:  ");
         int n = input.nextInt();
-        int[][] matrix =  Tamrin.get_matrix(n);
-        int[][] show =  Tamrin.showspiralArray(n);
+        int[][] matrix = amrin.get_matrix(n);
+        int[][] show = amrin.showspiralArray(n);
         Tamrin.showArray(matrix);
         Tamrin.print2dArray(Tamrin.showspiralArray(n));
-        Tamrin.nahayi(n,show,matrix);
+        Tamrin.nahayi(n, show, matrix);
     }
 }
