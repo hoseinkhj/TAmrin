@@ -106,17 +106,4 @@ public class Tamrin {
             System.out.println();
         }
     }
-
-    // ------------------------------------------------ main
-    // public static void main(String[] args) {
-    // Scanner input = new Scanner(System.in);
-    // System.out.println("Tedad satr va soton ra benevisid: ");
-    // int n = input.nextInt();
-    // int[][] matrix = get_matrix(n);
-    // int[][] show = showspiralArray(n);
-    // showArray(matrix);
-    // print2dArray(showspiralArray(n));
-    // nahayi(n,show,matrix);
-    //
-    // }
 }
